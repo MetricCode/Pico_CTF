@@ -2,8 +2,8 @@
 ## @author : M3tr1c_r00t
 ### Pico_CTF Writeups....
 <div align="center">
-
- ![picoctf1](https://user-images.githubusercontent.com/99975622/204555115-7d88763c-f160-4ab8-8dfb-4b91cb6b50f5.png)
+ 
+![picoctf2](https://user-images.githubusercontent.com/99975622/204555755-f7708489-0b59-41df-9ce8-4ee74a1f0dab.png)
 
 </div>
 
